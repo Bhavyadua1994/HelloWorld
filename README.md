@@ -1,3 +1,2 @@
 # HelloWorld
-first trigger.
-second trigger.
+first trigger
